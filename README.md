@@ -1,11 +1,11 @@
 # ☠️ DARK REAPER SOUL ☠️
-*The Ultimate DoS Arsenal – Unleash Chaos, Test Your Limits*
+*A multi-vector DoS testing framework for authorized penetration testing*
 
 ![Status](https://img.shields.io/badge/STATUS-UNSTOPPABLE-red)
 
-**Dark Reaper Soul** is a next-level Denial-of-Service (DoS) framework engineered for elite red team operatives and penetration testers. This beast pushes systems to their breaking points by launching multi-vector attacks—from raw TCP SYN floods (powered by Scapy) to advanced HTTP/HTTPS request floods and relentless Slowloris strikes.
+**Dark Reaper Soul** is a next-level Denial-of-Service (DoS) framework engineered for elite red team operatives and penetration testers. This tool tests system resilience to their breaking points by launching multi-vector attacks—from raw TCP SYN floods (powered by Scapy) to advanced HTTP/HTTPS request floods and relentless Slowloris strikes.
 
-> **⚠️ LEGAL NOTICE:** This weapon is for **authorized cybersecurity testing, red teaming, and penetration testing only.** Unauthorized use is illegal and will be met with full force. Use responsibly.
+> **⚠️ LEGAL NOTICE:**this tool is for**authorized cybersecurity testing, red teaming, and penetration testing only.** Unauthorized use is illegal and will be met with full force. Use responsibly.
 
 ---
 
@@ -74,8 +74,8 @@
 
 4. **👤 CREATED BY**
    **Ajay Devaliya (@Mrsoulhunter)**  
-   Red teaming enthusiast | OSINT wizard | Digital forensics ninja  
-   Follow my chaos on GitHub and join the revolution.
+   SOC Analyst | Penetration Testing Researcher | Digital Forensics
+   Connect with me on GitHub.
 
    ---
 ## 📸 Screenshots
